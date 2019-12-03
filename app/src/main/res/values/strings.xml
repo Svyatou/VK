@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VKONTAKTE</string>
+    <string name="login">Логин:</string>
+    <string name="password">Пароль:</string>
+    <string name="sign_in">Вход</string>
+    <string name="LOGIN"></string>
+    <string name="PASSWORD"></string>
+</resources>
